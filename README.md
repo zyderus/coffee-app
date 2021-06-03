@@ -12,10 +12,10 @@
 - ...
 
 ### tech list
-- react
-- react router
-- redux/thunk or context
-- code split (suspense, lazy)
+- ~~react~~
+- ~~react router~~
+- ~~redux/thunk or context~~
+- ~~code split (suspense, lazy)~~
 - ...
 
 ### apis
