@@ -1,3 +1,32 @@
+# Coffee app for coffee-heads
+
+## dev notes
+- landing page with coffee info and links
+- auth
+- coffee builder
+- shop for coffee classics and snacks
+- favorites page
+- da basket
+- orders
+- day & night themes
+- ...
+
+### tech list
+- react
+- react router
+- redux/thunk or context
+- code split (suspense, lazy)
+- ...
+
+### apis
+- payment (stripe)
+- db (firebase)
+- coffee news ?
+- cms ?
+
+### testing
+- jest & testing-library
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
