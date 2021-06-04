@@ -1,0 +1,46 @@
+.Cup {
+  border: 1px solid #000;
+  height: 40%;
+  width: 25%;
+  background: linear-gradient(#ffffff, #979797);
+  border-radius: 0 0 30% 30%;
+  box-shadow: inset -15px 0 #616161;
+  margin: 2% auto;
+  position: relative;
+}
+
+.Sugar {
+  width: 8%;
+  height: 8%;
+  background: linear-gradient(#e9e9e9, #dadada);
+  display: inline-block;
+  margin: 2% 2%;
+  border-radius: 2px;
+}
+
+.Milk {
+  width: 20%;
+  height: 15%;
+  margin: 2% 2%;
+  display: inline-block;
+  background: linear-gradient(#e6ddac, #e9dfa9);
+  border-radius: 0 0 20px 20px;
+}
+
+.Size {
+  width: 10%;
+  height: 20%;
+  margin: 2% 3%;
+  background: linear-gradient(#98b0d6, #73b2bd);
+  display: inline-block;
+  border-radius: 20px;
+}
+
+.Coffee {
+  display: inline-block;
+  width: 10%;
+  height: 10%;
+  background: linear-gradient(#693f1d, #99703f);
+  margin: 2% 2%;
+  border-radius: 25%;
+}
