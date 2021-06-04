@@ -26,7 +26,7 @@ export const purchaseCoffee = (orderData, token) => {
   return dispatch => {
     dispatch(purchaseCoffeeStart())
     axios
-      .post('/orders.json?auth=' + token, orderData)
+      .post('orders.json?auth=' + token, orderData)
       .then(response => {
         dispatch(purchaseCoffeeSuccess(response.data.name, orderData))
       })
