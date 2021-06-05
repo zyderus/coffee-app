@@ -31,7 +31,7 @@ export const fetchIngredientsFailed = () => {
 export const initIngredients = () => {
   return dispatch => {
     axios
-      .get('https://da-pizza-react-default-rtdb.asia-southeast1.firebasedatabase.app/ingredients.json')
+      .get('https://coffee-heads-9bd66-default-rtdb.asia-southeast1.firebasedatabase.app/ingredients.json')
       .then(response => {
         dispatch(setIngredients(response.data))
       })
