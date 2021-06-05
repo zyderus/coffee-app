@@ -20,7 +20,7 @@
 
 ### apis
 - payment (stripe)
-- db (firebase)
+- ~~db (firebase)~~
 - coffee news ?
 - cms ?
 
