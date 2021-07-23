@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  View @ www.toassigndomain.com | hosted with <a href="https://firebase.google.com/">Firebase</a>
+  🚀 View @ www.toassigndomain.com | hosted with <a href="https://firebase.google.com/">Firebase</a>
 </p>
 
 <p align="center">
