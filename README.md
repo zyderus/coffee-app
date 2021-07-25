@@ -43,14 +43,10 @@ React, Firebase, Styled Components
    ```sh
    npm run build
    ```
-   
----
 
 ## Contributors
 
 - Rustam Ziyadov
-
----
 
 ## License & copyright
 
